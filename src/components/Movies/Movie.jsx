@@ -18,5 +18,4 @@ const Movie = ({ title, year, poster, genre }) => {
     </div>
   );
 };
-
 export default Movie;
